@@ -1,0 +1,54 @@
+2023-05-04 05:43:34,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 05:43:34,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 05:43:34,886:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 05:43:34,886:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 05:43:35,655:INFO:Soft dependency imported: prophet: 1.1.2
+2023-05-04 05:44:37,864:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_6620\726109701.py:2: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 05:44:51,884:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_6620\4227414275.py:2: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 05:45:06,321:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_6620\4227414275.py:2: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 05:45:13,531:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_6620\726109701.py:2: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 05:46:05,876:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_6620\4227414275.py:2: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 05:46:10,011:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_6620\2236749757.py:2: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 05:46:13,550:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_6620\4227414275.py:2: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 05:46:34,838:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_6620\1482699648.py:2: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 05:46:54,532:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_6620\4227414275.py:2: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 05:47:02,817:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_6620\3118108701.py:2: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 05:47:24,333:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_6620\4227414275.py:2: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 05:51:25,967:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_6620\4227414275.py:2: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-04 06:11:50,705:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_6620\3528946173.py:20: UserWarning: Tight layout not applied. tight_layout cannot make axes height small enough to accommodate all axes decorations.
+  plt.tight_layout()
+
+2023-05-04 06:13:36,302:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_6620\744248290.py:1: FutureWarning: The default value of numeric_only in DataFrame.corr is deprecated. In a future version, it will default to False. Select only valid columns or specify the value of numeric_only to silence this warning.
+  corr_data = data.corr().round(2)
+
+2023-05-04 06:13:43,343:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_6620\3213045908.py:1: FutureWarning: The default value of numeric_only in DataFrame.corr is deprecated. In a future version, it will default to False. Select only valid columns or specify the value of numeric_only to silence this warning.
+  corr_data = data.corr().round(2)
+

@@ -1,0 +1,15 @@
+2023-05-02 14:01:56,106:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-02 14:01:56,107:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-02 14:01:56,107:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-02 14:01:56,107:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-02 14:01:56,491:INFO:Soft dependency imported: prophet: 1.1.2
+2023-05-02 14:08:32,722:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10052\476127175.py:1: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  data = data.fillna(data.mean())
+
+2023-05-02 14:12:21,803:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10052\744248290.py:1: FutureWarning: The default value of numeric_only in DataFrame.corr is deprecated. In a future version, it will default to False. Select only valid columns or specify the value of numeric_only to silence this warning.
+  corr_data = data.corr().round(2)
+

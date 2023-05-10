@@ -1,0 +1,217 @@
+2023-05-05 13:53:59,776:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-05 13:53:59,776:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-05 13:53:59,776:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-05 13:53:59,776:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-05 13:54:00,400:INFO:Soft dependency imported: prophet: 1.1.2
+2023-05-05 13:56:56,103:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_5936\3213045908.py:1: FutureWarning: The default value of numeric_only in DataFrame.corr is deprecated. In a future version, it will default to False. Select only valid columns or specify the value of numeric_only to silence this warning.
+  corr_data = data.corr().round(2)
+
+2023-05-05 15:57:51,511:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-05 15:57:51,511:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-05 15:57:51,511:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-05 15:57:51,512:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-05 15:57:51,968:INFO:Soft dependency imported: prophet: 1.1.2
+2023-05-05 15:58:15,370:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_15964\3213045908.py:1: FutureWarning: The default value of numeric_only in DataFrame.corr is deprecated. In a future version, it will default to False. Select only valid columns or specify the value of numeric_only to silence this warning.
+  corr_data = data.corr().round(2)
+
+2023-05-05 16:01:21,339:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\svm\_base.py:1206: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+
+2023-05-05 16:02:39,849:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\neural_network\_multilayer_perceptron.py:549: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+  self.n_iter_ = _check_optimize_result("lbfgs", opt_res, self.max_iter)
+
+2023-05-05 16:03:41,716:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\neighbors\_regression.py:470: UserWarning: One or more samples have no neighbors within specified radius; predicting NaN.
+  warnings.warn(empty_warning_msg)
+
+2023-05-05 16:03:53,451:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\statsmodels\genmod\families\links.py:516: RuntimeWarning: overflow encountered in exp
+  return np.exp(z)
+
+2023-05-05 16:03:53,451:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\statsmodels\genmod\families\family.py:132: RuntimeWarning: invalid value encountered in multiply
+  return 1. / (self.link.deriv(mu)**2 * self.variance(mu))
+
+2023-05-05 16:03:53,452:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\statsmodels\genmod\generalized_linear_model.py:1211: RuntimeWarning: invalid value encountered in multiply
+  wlsendog = (lin_pred + self.family.link.deriv(mu) * (self.endog-mu)
+
+2023-05-05 16:03:58,899:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\statsmodels\genmod\families\links.py:516: RuntimeWarning: overflow encountered in exp
+  return np.exp(z)
+
+2023-05-05 16:03:58,900:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\statsmodels\genmod\families\family.py:132: RuntimeWarning: invalid value encountered in multiply
+  return 1. / (self.link.deriv(mu)**2 * self.variance(mu))
+
+2023-05-05 16:03:58,900:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\statsmodels\genmod\generalized_linear_model.py:1211: RuntimeWarning: invalid value encountered in multiply
+  wlsendog = (lin_pred + self.family.link.deriv(mu) * (self.endog-mu)
+
+2023-05-05 16:03:58,930:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\linear_model\_ridge.py:157: LinAlgWarning: Ill-conditioned matrix (rcond=1.63124e-26): result may not be accurate.
+  return linalg.solve(A, Xy, sym_pos=True, overwrite_a=True).T
+
+2023-05-05 16:04:00,954:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\statsmodels\genmod\families\family.py:426: RuntimeWarning: divide by zero encountered in divide
+  endog_mu = self._clean(endog / mu)
+
+2023-05-05 16:04:00,955:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\statsmodels\genmod\families\family.py:132: RuntimeWarning: divide by zero encountered in divide
+  return 1. / (self.link.deriv(mu)**2 * self.variance(mu))
+
+2023-05-05 16:04:12,888:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\svm\_base.py:1206: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+
+2023-05-05 16:04:53,632:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\linear_model\_ridge.py:157: LinAlgWarning: Ill-conditioned matrix (rcond=1.63124e-26): result may not be accurate.
+  return linalg.solve(A, Xy, sym_pos=True, overwrite_a=True).T
+
+2023-05-05 16:05:22,739:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\linear_model\_ridge.py:157: LinAlgWarning: Ill-conditioned matrix (rcond=1.63124e-26): result may not be accurate.
+  return linalg.solve(A, Xy, sym_pos=True, overwrite_a=True).T
+
+2023-05-05 16:05:31,737:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\fromnumeric.py:86: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+
+2023-05-05 16:05:31,774:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\scipy\interpolate\_polyint.py:559: RuntimeWarning: overflow encountered in double_scalars
+  self.wi[i] = 1.0 / np.prod(dist)
+
+2023-05-05 16:05:31,775:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\scipy\interpolate\_polyint.py:559: RuntimeWarning: divide by zero encountered in double_scalars
+  self.wi[i] = 1.0 / np.prod(dist)
+
+2023-05-05 16:05:31,934:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\fromnumeric.py:86: RuntimeWarning: invalid value encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+
+2023-05-05 16:05:42,541:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\svm\_base.py:1206: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+
+2023-05-05 16:13:29,190:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\linear_model\_ridge.py:157: LinAlgWarning: Ill-conditioned matrix (rcond=1.63124e-26): result may not be accurate.
+  return linalg.solve(A, Xy, sym_pos=True, overwrite_a=True).T
+
+2023-05-05 16:13:32,657:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\svm\_base.py:1206: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+
+2023-05-05 16:13:39,839:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\fromnumeric.py:86: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+
+2023-05-05 16:13:39,888:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\scipy\interpolate\_polyint.py:559: RuntimeWarning: overflow encountered in double_scalars
+  self.wi[i] = 1.0 / np.prod(dist)
+
+2023-05-05 16:13:39,889:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\scipy\interpolate\_polyint.py:559: RuntimeWarning: divide by zero encountered in double_scalars
+  self.wi[i] = 1.0 / np.prod(dist)
+
+2023-05-05 16:13:40,046:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\fromnumeric.py:86: RuntimeWarning: invalid value encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+
+2023-05-05 16:13:55,906:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\svm\_base.py:1206: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+
+2023-05-05 16:14:09,445:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\lib\function_base.py:2845: RuntimeWarning: Degrees of freedom <= 0 for slice
+  c = cov(x, y, rowvar, dtype=dtype)
+
+2023-05-05 16:18:26,715:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\neighbors\_regression.py:470: UserWarning: One or more samples have no neighbors within specified radius; predicting NaN.
+  warnings.warn(empty_warning_msg)
+
+2023-05-05 16:19:12,284:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\fromnumeric.py:86: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+
+2023-05-05 16:19:12,330:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\scipy\interpolate\_polyint.py:559: RuntimeWarning: overflow encountered in double_scalars
+  self.wi[i] = 1.0 / np.prod(dist)
+
+2023-05-05 16:19:12,331:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\scipy\interpolate\_polyint.py:559: RuntimeWarning: divide by zero encountered in double_scalars
+  self.wi[i] = 1.0 / np.prod(dist)
+
+2023-05-05 16:19:12,485:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\fromnumeric.py:86: RuntimeWarning: invalid value encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+
+2023-05-05 16:20:44,543:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\fromnumeric.py:86: RuntimeWarning: invalid value encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+
+2023-05-05 16:21:45,128:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\statsmodels\genmod\families\links.py:187: RuntimeWarning: overflow encountered in exp
+  t = np.exp(-z)
+
+2023-05-05 16:22:16,362:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\statsmodels\genmod\families\family.py:1346: RuntimeWarning: invalid value encountered in log
+  resid_dev -= endog_alpha * np.log(endog_alpha / mu_alpha)
+
+2023-05-05 16:22:16,418:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\neighbors\_regression.py:470: UserWarning: One or more samples have no neighbors within specified radius; predicting NaN.
+  warnings.warn(empty_warning_msg)
+
+2023-05-05 16:23:04,650:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\linear_model\_ridge.py:157: LinAlgWarning: Ill-conditioned matrix (rcond=1.63124e-26): result may not be accurate.
+  return linalg.solve(A, Xy, sym_pos=True, overwrite_a=True).T
+
+2023-05-05 16:23:17,987:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\neighbors\_regression.py:470: UserWarning: One or more samples have no neighbors within specified radius; predicting NaN.
+  warnings.warn(empty_warning_msg)
+
+2023-05-05 16:23:22,568:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\svm\_base.py:1206: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+
+2023-05-05 16:24:09,164:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\svm\_base.py:1206: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+
+2023-05-05 16:25:40,800:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\svm\_base.py:1206: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+
+2023-05-05 16:34:20,065:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\fromnumeric.py:86: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+
+2023-05-05 16:34:20,119:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\scipy\interpolate\_polyint.py:559: RuntimeWarning: overflow encountered in double_scalars
+  self.wi[i] = 1.0 / np.prod(dist)
+
+2023-05-05 16:34:20,120:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\scipy\interpolate\_polyint.py:559: RuntimeWarning: divide by zero encountered in double_scalars
+  self.wi[i] = 1.0 / np.prod(dist)
+
+2023-05-05 16:34:20,314:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\fromnumeric.py:86: RuntimeWarning: invalid value encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+
+2023-05-05 16:35:35,777:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\svm\_base.py:1206: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+
+2023-05-05 16:35:38,107:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\svm\_base.py:1206: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+
+2023-05-05 16:35:50,285:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\svm\_base.py:1206: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+
+2023-05-05 16:39:27,385:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\fromnumeric.py:86: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+
+2023-05-05 16:39:27,439:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\scipy\interpolate\_polyint.py:559: RuntimeWarning: overflow encountered in double_scalars
+  self.wi[i] = 1.0 / np.prod(dist)
+
+2023-05-05 16:39:27,440:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\scipy\interpolate\_polyint.py:559: RuntimeWarning: divide by zero encountered in double_scalars
+  self.wi[i] = 1.0 / np.prod(dist)
+
+2023-05-05 16:39:27,631:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\fromnumeric.py:86: RuntimeWarning: invalid value encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+
+2023-05-05 16:40:41,128:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\svm\_base.py:1206: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+
+2023-05-05 16:40:43,491:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\svm\_base.py:1206: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+
+2023-05-05 16:40:53,123:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\svm\_base.py:1206: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+
+2023-05-05 16:44:46,032:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\fromnumeric.py:86: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+
+2023-05-05 16:44:46,098:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\scipy\interpolate\_polyint.py:559: RuntimeWarning: overflow encountered in double_scalars
+  self.wi[i] = 1.0 / np.prod(dist)
+
+2023-05-05 16:44:46,100:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\scipy\interpolate\_polyint.py:559: RuntimeWarning: divide by zero encountered in double_scalars
+  self.wi[i] = 1.0 / np.prod(dist)
+
+2023-05-05 16:44:46,320:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\fromnumeric.py:86: RuntimeWarning: invalid value encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+
+2023-05-05 16:46:06,791:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\svm\_base.py:1206: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+
+2023-05-05 16:46:08,999:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\svm\_base.py:1206: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+
+2023-05-05 16:46:21,325:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\svm\_base.py:1206: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+

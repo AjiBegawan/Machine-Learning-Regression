@@ -1,0 +1,12 @@
+2023-05-05 15:09:42,155:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-05 15:09:42,156:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-05 15:09:42,156:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-05 15:09:42,156:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-05 15:09:42,556:INFO:Soft dependency imported: prophet: 1.1.2
+2023-05-05 15:25:11,546:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_15480\613572884.py:6: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  sns.lineplot(data['Sales'], palette='Blues')
+

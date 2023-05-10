@@ -1,0 +1,63 @@
+2023-04-29 13:51:12,760:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 13:51:12,760:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 13:51:12,760:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 13:51:12,760:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 13:51:13,295:INFO:Soft dependency imported: prophet: 1.1.2
+2023-04-29 14:02:47,158:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_7652\1204900764.py:9: UserWarning: Dataset has 0 variance; skipping density estimate. Pass `warn_singular=False` to disable this warning.
+  sns.kdeplot(data = data, x = column, ax=axes[row, col]) \
+
+2023-04-29 14:02:47,525:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_7652\1204900764.py:9: UserWarning: Dataset has 0 variance; skipping density estimate. Pass `warn_singular=False` to disable this warning.
+  sns.kdeplot(data = data, x = column, ax=axes[row, col]) \
+
+2023-04-29 14:02:47,985:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_7652\1204900764.py:9: UserWarning: Dataset has 0 variance; skipping density estimate. Pass `warn_singular=False` to disable this warning.
+  sns.kdeplot(data = data, x = column, ax=axes[row, col]) \
+
+2023-04-29 14:02:48,358:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_7652\1204900764.py:9: UserWarning: Dataset has 0 variance; skipping density estimate. Pass `warn_singular=False` to disable this warning.
+  sns.kdeplot(data = data, x = column, ax=axes[row, col]) \
+
+2023-04-29 15:27:26,251:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 15:27:26,252:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 15:27:26,252:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 15:27:26,252:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 15:27:26,613:INFO:Soft dependency imported: prophet: 1.1.2
+2023-04-29 15:37:22,250:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 15:37:22,250:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 15:37:22,250:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 15:37:22,250:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 15:37:22,595:INFO:Soft dependency imported: prophet: 1.1.2
+2023-04-29 17:51:30,128:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 17:51:30,128:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 17:51:30,128:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 17:51:30,128:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 17:51:30,485:INFO:Soft dependency imported: prophet: 1.1.2
+2023-04-29 17:56:52,096:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 17:56:52,096:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 17:56:52,096:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 17:56:52,096:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-04-29 17:56:52,465:INFO:Soft dependency imported: prophet: 1.1.2
+2023-04-29 17:59:30,486:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\_methods.py:247: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(x, axis, dtype, out, keepdims=keepdims, where=where)
+
+2023-04-29 17:59:37,885:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\numpy\core\_methods.py:247: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(x, axis, dtype, out, keepdims=keepdims, where=where)
+

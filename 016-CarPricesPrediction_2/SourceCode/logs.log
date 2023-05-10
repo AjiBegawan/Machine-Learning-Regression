@@ -1,0 +1,267 @@
+2023-05-01 23:10:10,258:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-01 23:10:10,259:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-01 23:10:10,259:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-01 23:10:10,259:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-01 23:10:10,610:INFO:Soft dependency imported: prophet: 1.1.2
+2023-05-01 23:12:50,521:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1507: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=vector, **plot_kwargs)
+
+2023-05-01 23:12:50,546:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1507: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=vector, **plot_kwargs)
+
+2023-05-01 23:12:50,570:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1507: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=vector, **plot_kwargs)
+
+2023-05-01 23:12:50,601:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1507: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=vector, **plot_kwargs)
+
+2023-05-01 23:12:50,634:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1507: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=vector, **plot_kwargs)
+
+2023-05-01 23:12:50,675:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1507: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=vector, **plot_kwargs)
+
+2023-05-01 23:12:50,699:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1507: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=vector, **plot_kwargs)
+
+2023-05-01 23:12:50,722:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1507: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=vector, **plot_kwargs)
+
+2023-05-01 23:12:50,746:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1507: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=vector, **plot_kwargs)
+
+2023-05-01 23:12:50,771:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:50,784:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:50,801:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:50,813:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:50,825:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:50,837:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:50,850:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:50,863:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:50,877:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:50,889:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:50,904:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:50,916:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:50,928:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:50,940:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:50,953:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:50,964:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:50,978:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:50,991:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,006:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,021:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,035:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,048:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,060:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,073:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,086:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,103:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,116:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,129:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,144:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,150:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,163:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,177:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,188:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,201:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,212:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,224:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,236:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,248:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,261:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,276:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,289:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,304:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,321:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,336:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,349:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,363:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,377:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,392:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,408:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,425:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,441:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,456:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,469:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,480:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,495:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,507:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,521:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,533:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,545:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,560:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,573:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,586:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,599:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,613:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,627:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,641:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,655:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,668:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,684:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,696:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,709:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:12:51,723:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\seaborn\axisgrid.py:1609: UserWarning: Ignoring `palette` because no `hue` variable has been assigned.
+  func(x=x, y=y, **kwargs)
+
+2023-05-01 23:14:26,809:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\preprocessing\_data.py:3252: RuntimeWarning: overflow encountered in power
+  out[pos] = (np.power(x[pos] + 1, lmbda) - 1) / lmbda
+
+2023-05-01 23:18:31,647:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_12364\2656767173.py:5: UserWarning: To output multiple subplots, the figure containing the passed axes is being cleared.
+  out_of_sample_results.plot(ax=ax, subplots=True, title='Gold prices, USD')
+
+2023-05-01 23:27:44,564:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\preprocessing\_data.py:3252: RuntimeWarning: overflow encountered in power
+  out[pos] = (np.power(x[pos] + 1, lmbda) - 1) / lmbda
+
+2023-05-01 23:28:57,395:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\preprocessing\_data.py:3252: RuntimeWarning: overflow encountered in power
+  out[pos] = (np.power(x[pos] + 1, lmbda) - 1) / lmbda
+
+2023-05-01 23:29:16,122:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\preprocessing\_data.py:3252: RuntimeWarning: overflow encountered in power
+  out[pos] = (np.power(x[pos] + 1, lmbda) - 1) / lmbda
+

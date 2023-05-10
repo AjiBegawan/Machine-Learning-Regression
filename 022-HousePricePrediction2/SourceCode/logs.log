@@ -1,0 +1,471 @@
+2023-05-04 18:25:13,282:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 18:25:13,282:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 18:25:13,282:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 18:25:13,282:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 18:25:13,834:INFO:Soft dependency imported: prophet: 1.1.2
+2023-05-04 18:42:36,386:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\core.py:617: FutureWarning: Pass `objective` as keyword args.
+  warnings.warn(msg, FutureWarning)
+
+2023-05-04 18:46:17,995:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 18:46:17,995:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 18:46:17,995:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 18:46:17,995:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-04 18:46:18,400:INFO:Soft dependency imported: prophet: 1.1.2
+2023-05-04 18:46:33,469:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:46:33,470:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:46:33,497:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:46:37,025:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:46:37,025:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:46:37,035:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:46:39,742:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:46:39,743:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:46:39,753:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:46:41,888:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:46:41,888:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:46:41,898:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:46:45,624:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:46:45,625:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:46:45,635:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:46:47,826:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:46:47,827:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:46:47,837:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:46:52,614:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:46:52,614:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:46:52,627:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:46:55,500:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:46:55,500:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:46:55,510:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:46:58,850:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:46:58,851:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:46:58,862:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:47:01,075:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:47:01,077:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:47:01,089:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:47:03,325:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:47:03,330:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:47:03,351:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:47:06,477:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:47:06,481:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:47:06,503:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:47:09,752:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:47:09,757:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:47:09,783:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:47:13,904:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:47:13,908:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:47:13,963:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:47:16,345:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:47:16,349:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:47:16,371:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:47:24,990:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:47:24,993:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:47:25,014:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:47:37,188:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:47:37,192:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:47:37,212:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:47:56,763:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:47:56,766:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:47:56,784:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:48:05,214:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:48:05,219:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:48:05,237:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:48:09,602:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:48:09,606:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:48:09,626:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:48:13,549:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:48:13,552:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:48:13,571:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:48:15,629:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:48:15,633:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:48:15,658:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:48:33,944:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:48:33,948:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:48:33,967:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:48:57,747:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:48:57,750:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:48:57,769:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:49:02,830:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:49:02,835:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:49:02,855:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:49:18,727:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:49:18,730:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:49:18,751:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:49:27,147:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:49:27,151:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:49:27,168:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:49:31,516:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:49:31,521:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:49:31,544:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:49:34,624:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:49:34,628:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:49:34,649:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:50:08,683:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:50:08,687:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:50:08,706:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:50:11,341:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:50:11,345:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:50:11,367:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:50:14,786:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:50:14,791:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:50:14,812:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:50:30,505:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:50:30,509:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:50:30,527:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:50:41,205:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:50:41,207:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:50:41,231:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:50:45,125:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:50:45,132:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:50:45,154:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:51:14,665:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:51:14,669:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:51:14,689:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:51:17,501:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:51:17,505:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:51:17,526:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:51:21,899:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:51:21,904:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:51:21,937:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:51:26,113:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:51:26,118:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:51:26,140:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:51:27,701:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:51:27,706:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:51:27,731:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:51:29,841:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:51:29,845:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:51:29,872:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:51:45,010:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:51:45,013:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:51:45,034:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:52:28,690:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:52:28,693:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:52:28,714:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:52:32,990:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:52:32,994:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:52:33,014:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:52:40,834:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:52:40,838:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:52:40,859:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:52:42,796:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:52:42,800:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:52:42,871:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:52:45,576:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:52:45,581:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:52:45,602:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:52:49,934:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:52:49,939:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:52:49,962:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:52:55,594:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:52:55,599:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:52:55,620:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+
+2023-05-04 18:52:59,761:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:20: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'lambda': trial.suggest_loguniform('lambda', 1e-3, 10.0),
+
+2023-05-04 18:52:59,766:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_10476\3297880519.py:21: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use :func:`~optuna.trial.Trial.suggest_float` instead.
+  'alpha': trial.suggest_loguniform('alpha', 1e-3, 10.0),
+
+2023-05-04 18:52:59,790:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\xgboost\sklearn.py:835: UserWarning: `early_stopping_rounds` in `fit` method is deprecated for better compatibility with scikit-learn, use `early_stopping_rounds` in constructor or`set_params` instead.
+  warnings.warn(
+

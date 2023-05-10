@@ -1,0 +1,8 @@
+/started
+/logs
+/.ipynb_checkpoints
+
+Dataset/
+
+*.zip
+*.csv

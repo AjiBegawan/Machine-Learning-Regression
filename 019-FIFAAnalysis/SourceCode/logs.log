@@ -1,0 +1,72 @@
+2023-05-03 18:00:22,083:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 18:00:22,083:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 18:00:22,083:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 18:00:22,083:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 18:00:22,659:INFO:Soft dependency imported: prophet: 1.1.2
+2023-05-03 18:24:35,549:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_16872\930210109.py:1: ParserWarning: Falling back to the 'python' engine because the 'c' engine does not support regex separators (separators > 1 char and different from '\s+' are interpreted as regex); you can avoid this warning by specifying engine='python'.
+  data = pd.read_csv('../Dataset/fifa_v2.csv', delimiter='/t')
+
+2023-05-03 18:24:43,725:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_16872\1314616342.py:1: DtypeWarning: Columns (14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv('../Dataset/fifa_v2.csv', delimiter=';')
+
+2023-05-03 18:24:56,627:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_16872\538758655.py:1: DtypeWarning: Columns (14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv('../Dataset/fifa_v2.csv', delimiter=';').drop_duplicates()
+
+2023-05-03 18:25:02,235:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_16872\1910229381.py:1: DtypeWarning: Columns (14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv('../Dataset/fifa_v2.csv', delimiter=';').dropna()
+
+2023-05-03 18:25:12,595:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_16872\1982872667.py:1: DtypeWarning: Columns (14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv('../Dataset/fifa_v2.csv', delimiter=';').dropna()
+
+2023-05-03 18:26:27,353:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_16872\1081684111.py:1: DtypeWarning: Columns (14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv('../Dataset/fifa_v2.csv', delimiter=';')
+
+2023-05-03 18:27:27,931:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_16872\1081684111.py:1: DtypeWarning: Columns (14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv('../Dataset/fifa_v2.csv', delimiter=';')
+
+2023-05-03 18:33:04,382:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_16872\3717407283.py:4: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  return int(round((data[['Marking', 'StandingTackle', 'SlidingTackle']].mean()).mean()))
+
+2023-05-03 18:33:28,757:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_16872\1081684111.py:1: DtypeWarning: Columns (14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv('../Dataset/fifa_v2.csv', delimiter=';')
+
+2023-05-03 18:34:00,225:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_16872\2723513833.py:1: DtypeWarning: Columns (14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv('../Dataset/fifa_v2.csv', na_values='NaN', delimiter=';')
+
+2023-05-03 18:34:29,085:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_16872\3717407283.py:4: FutureWarning: The default value of numeric_only in DataFrame.mean is deprecated. In a future version, it will default to False. In addition, specifying 'numeric_only=None' is deprecated. Select only valid columns or specify the value of numeric_only to silence this warning.
+  return int(round((data[['Marking', 'StandingTackle', 'SlidingTackle']].mean()).mean()))
+
+2023-05-03 18:35:05,964:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_16872\3862631625.py:1: DtypeWarning: Columns (14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv('../Dataset/fifa_v2.csv', na_values='NaN', delimiter=';')
+
+2023-05-03 18:35:08,039:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_16872\3862631625.py:1: DtypeWarning: Columns (14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv('../Dataset/fifa_v2.csv', na_values='NaN', delimiter=';')
+
+2023-05-03 18:37:17,681:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 18:37:17,682:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 18:37:17,682:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 18:37:17,682:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 18:37:18,066:INFO:Soft dependency imported: prophet: 1.1.2
+2023-05-03 18:37:18,805:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_8608\3862631625.py:1: DtypeWarning: Columns (14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv('../Dataset/fifa_v2.csv', na_values='NaN', delimiter=';')
+
+2023-05-03 19:00:02,984:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 19:00:02,985:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 19:00:02,985:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 19:00:02,985:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-03 19:00:03,355:INFO:Soft dependency imported: prophet: 1.1.2
+2023-05-03 19:00:03,531:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_12360\3862631625.py:1: DtypeWarning: Columns (14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv('../Dataset/fifa_v2.csv', na_values='NaN', delimiter=';')
+
