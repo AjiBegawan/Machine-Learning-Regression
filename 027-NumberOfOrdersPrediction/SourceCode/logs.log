@@ -7,3 +7,96 @@
 2023-05-08 18:41:44,984:WARNING:
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
 2023-05-08 18:41:45,402:INFO:Soft dependency imported: prophet: 1.1.2
+2023-05-10 21:10:33,237:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-10 21:10:33,238:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-10 21:10:33,238:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-10 21:10:33,238:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-10 21:10:33,594:INFO:Soft dependency imported: prophet: 1.1.2
+2023-05-10 21:15:15,087:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_3384\2886857217.py:6: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(data['Sales'], kde=True)
+
+2023-05-10 21:15:16,159:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_3384\2886857217.py:7: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(prediction, kde=True)
+
+2023-05-10 21:18:23,207:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_3384\357467145.py:6: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(data['Sales'], kde=True)
+
+2023-05-10 21:18:24,247:WARNING:C:\Users\indiz\AppData\Local\Temp\ipykernel_3384\357467145.py:7: UserWarning: 
+
+`distplot` is a deprecated function and will be removed in seaborn v0.14.0.
+
+Please adapt your code to use either `displot` (a figure-level function with
+similar flexibility) or `histplot` (an axes-level function for histograms).
+
+For a guide to updating your code to use the new functions, please see
+https://gist.github.com/mwaskom/de44147ed2974457ad6372750bbe5751
+
+  sns.distplot(prediction, kde=True)
+
+2023-05-10 21:18:42,006:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\base.py:450: UserWarning: X does not have valid feature names, but ExtraTreesRegressor was fitted with feature names
+  warnings.warn(
+
+2023-05-10 21:18:42,348:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\base.py:450: UserWarning: X does not have valid feature names, but HistGradientBoostingRegressor was fitted with feature names
+  warnings.warn(
+
+2023-05-10 21:18:42,586:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\base.py:450: UserWarning: X does not have valid feature names, but AdaBoostRegressor was fitted with feature names
+  warnings.warn(
+
+2023-05-10 21:18:43,642:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\base.py:450: UserWarning: X does not have valid feature names, but BaggingRegressor was fitted with feature names
+  warnings.warn(
+
+2023-05-10 21:18:43,873:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\base.py:450: UserWarning: X does not have valid feature names, but RandomForestRegressor was fitted with feature names
+  warnings.warn(
+
+2023-05-10 21:18:44,191:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\base.py:450: UserWarning: X does not have valid feature names, but DecisionTreeRegressor was fitted with feature names
+  warnings.warn(
+
+2023-05-10 21:18:50,883:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\base.py:450: UserWarning: X does not have valid feature names, but ExtraTreesRegressor was fitted with feature names
+  warnings.warn(
+
+2023-05-10 21:18:51,328:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\base.py:450: UserWarning: X does not have valid feature names, but HistGradientBoostingRegressor was fitted with feature names
+  warnings.warn(
+
+2023-05-10 21:18:51,642:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\base.py:450: UserWarning: X does not have valid feature names, but AdaBoostRegressor was fitted with feature names
+  warnings.warn(
+
+2023-05-10 21:18:52,753:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\base.py:450: UserWarning: X does not have valid feature names, but BaggingRegressor was fitted with feature names
+  warnings.warn(
+
+2023-05-10 21:18:52,988:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\base.py:450: UserWarning: X does not have valid feature names, but RandomForestRegressor was fitted with feature names
+  warnings.warn(
+
+2023-05-10 21:18:53,345:WARNING:c:\Users\indiz\miniconda3\envs\gan\lib\site-packages\sklearn\base.py:450: UserWarning: X does not have valid feature names, but DecisionTreeRegressor was fitted with feature names
+  warnings.warn(
+
